@@ -1,0 +1,1248 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/mygalaxy/ontologies/2023/3/untitled-ontology-2"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/mygalaxy/ontologies/2023/3/untitled-ontology-2">
+    <Prefix name="" IRI="http://www.semanticweb.org/mygalaxy/ontologies/2023/3/untitled-ontology-2/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Editor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Genre"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Language"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ActionMovie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Actor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Actress"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/AnimationMovies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/AssisstantDirector"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/BollywoodMovie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ChildrenMovies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Cinematographer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ComedyMovie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/CreativeDirector"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/CreativeMovie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/DirectionStaff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Director"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Distributor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/DocumentaryMovies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/HollywoodMovie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/HorrorMovie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/KoreanMovie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/LeadRole"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Movie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/MusicDirector"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Person"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Producer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Role"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/RomanticMovies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Sci-FiMovies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Singer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/SupportingRole"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/TamilMovies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/TeluguMovies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ThrillerMovie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/VFXDesigner"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Writer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#cinematographyBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#editedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#givenMusicIn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasCinematographer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasLeadRoleIn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSupportingRoleIn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#musicBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/actedIn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasActed"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasActor"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasDirected"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasDirector"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasEdited"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasGenre"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasHeight"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasLanguage"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasNarrated"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasPlayedVillain"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasProduced"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasProducer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasProductionDesigned"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasVFXDesigned"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasWritten"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/pairedWith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/playedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/playedCameo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/playedLoveInterest"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Action"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Akhilesh_Jaiswal"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Andrea_Guerra"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Animation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Anurag_Kashyap"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Apoorva_Bakshi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bollywood"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Children"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Comedy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Crime"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#David_Alper"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Documentary"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Drama"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#English"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fantasy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#G.V._Prakash_Kumar"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gabriele_Muccino"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hindi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hollywood"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Horror"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hughes_Winborne"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Huma_Qureshi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Jaden_Smith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Manoj_Bajpayee"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Nawazuddin_Siddiqui"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Pankaj_Tripathi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rahat_Fateh_Ali_Khan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rajeev_Ravi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rakesh_Bhagwani"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Richa_Chadha"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Romantic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sachin_K._Lapadia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Satyakam_Anand"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sci-Fi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sneha_Khanwalkar"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sports"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Steve_Conrad"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sunil_Bohra"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sweta_Venkat"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tamil"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tamill"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Telugu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Teluguu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Thandiwe_Newton"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Thriller"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Todd_Black"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wajid_Ali"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Will_Smith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Zeishan_Quadri"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="/ActionMovie"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/AnimationMovies"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/AssisstantDirector"/>
+        <Class IRI="/DirectionStaff"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/BollywoodMovie"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/ChildrenMovies"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/ComedyMovie"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/CreativeDirector"/>
+        <Class IRI="/DirectionStaff"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/CreativeMovie"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Director"/>
+        <Class IRI="/DirectionStaff"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Director"/>
+        <Class IRI="/LeadRole"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/DocumentaryMovies"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/HollywoodMovie"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/HorrorMovie"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/KoreanMovie"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/LeadRole"/>
+        <Class IRI="/Role"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/MusicDirector"/>
+        <Class IRI="/DirectionStaff"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/RomanticMovies"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Sci-FiMovies"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/SupportingRole"/>
+        <Class IRI="/Role"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/TamilMovies"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/TeluguMovies"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/ThrillerMovie"/>
+        <Class IRI="/Movie"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="/Actor"/>
+        <Class IRI="/Actress"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Action"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Writer"/>
+        <NamedIndividual IRI="#Akhilesh_Jaiswal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Singer"/>
+        <NamedIndividual IRI="#Andrea_Guerra"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Animation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Director"/>
+        <NamedIndividual IRI="#Anurag_Kashyap"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Producer"/>
+        <NamedIndividual IRI="#Anurag_Kashyap"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Writer"/>
+        <NamedIndividual IRI="#Anurag_Kashyap"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Producer"/>
+        <NamedIndividual IRI="#Apoorva_Bakshi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Bollywood"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Children"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Comedy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Crime"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Producer"/>
+        <NamedIndividual IRI="#David_Alper"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Documentary"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Drama"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Language"/>
+        <NamedIndividual IRI="#English"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Fantasy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Singer"/>
+        <NamedIndividual IRI="#G.V._Prakash_Kumar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Director"/>
+        <NamedIndividual IRI="#Gabriele_Muccino"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Movie"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Language"/>
+        <NamedIndividual IRI="#Hindi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Hollywood"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Horror"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Editor"/>
+        <NamedIndividual IRI="#Hughes_Winborne"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actress"/>
+        <NamedIndividual IRI="#Huma_Qureshi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actor"/>
+        <NamedIndividual IRI="#Jaden_Smith"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actor"/>
+        <NamedIndividual IRI="#Manoj_Bajpayee"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actor"/>
+        <NamedIndividual IRI="#Nawazuddin_Siddiqui"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actor"/>
+        <NamedIndividual IRI="#Pankaj_Tripathi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Singer"/>
+        <NamedIndividual IRI="#Rahat_Fateh_Ali_Khan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Cinematographer"/>
+        <NamedIndividual IRI="#Rajeev_Ravi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Producer"/>
+        <NamedIndividual IRI="#Rakesh_Bhagwani"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actress"/>
+        <NamedIndividual IRI="#Richa_Chadha"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Romantic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Writer"/>
+        <NamedIndividual IRI="#Sachin_K._Lapadia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actor"/>
+        <NamedIndividual IRI="#Satyakam_Anand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Sci-Fi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Singer"/>
+        <NamedIndividual IRI="#Sneha_Khanwalkar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Sports"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Writer"/>
+        <NamedIndividual IRI="#Steve_Conrad"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Producer"/>
+        <NamedIndividual IRI="#Sunil_Bohra"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Editor"/>
+        <NamedIndividual IRI="#Sweta_Venkat"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Tamil"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Language"/>
+        <NamedIndividual IRI="#Tamill"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Telugu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Language"/>
+        <NamedIndividual IRI="#Teluguu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actress"/>
+        <NamedIndividual IRI="#Thandiwe_Newton"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Movie"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Genre"/>
+        <NamedIndividual IRI="#Thriller"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Producer"/>
+        <NamedIndividual IRI="#Todd_Black"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Singer"/>
+        <NamedIndividual IRI="#Wajid_Ali"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Actor"/>
+        <NamedIndividual IRI="#Will_Smith"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/Writer"/>
+        <NamedIndividual IRI="#Zeishan_Quadri"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasWritten"/>
+        <NamedIndividual IRI="#Akhilesh_Jaiswal"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#givenMusicIn"/>
+        <NamedIndividual IRI="#Andrea_Guerra"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasDirected"/>
+        <NamedIndividual IRI="#Anurag_Kashyap"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProduced"/>
+        <NamedIndividual IRI="#Anurag_Kashyap"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasWritten"/>
+        <NamedIndividual IRI="#Anurag_Kashyap"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProduced"/>
+        <NamedIndividual IRI="#Apoorva_Bakshi"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProduced"/>
+        <NamedIndividual IRI="#David_Alper"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#givenMusicIn"/>
+        <NamedIndividual IRI="#G.V._Prakash_Kumar"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasDirected"/>
+        <NamedIndividual IRI="#Gabriele_Muccino"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#editedBy"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Sweta_Venkat"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#musicBy"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#G.V._Prakash_Kumar"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#musicBy"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Sneha_Khanwalkar"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasActor"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Huma_Qureshi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasActor"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Manoj_Bajpayee"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasActor"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Nawazuddin_Siddiqui"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasActor"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Pankaj_Tripathi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasActor"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Richa_Chadha"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasGenre"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Action"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasGenre"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Crime"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasGenre"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Drama"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasLanguage"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Hindi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProducer"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Anurag_Kashyap"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProducer"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Apoorva_Bakshi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProducer"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Rakesh_Bhagwani"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProducer"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+        <NamedIndividual IRI="#Sunil_Bohra"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasEdited"/>
+        <NamedIndividual IRI="#Hughes_Winborne"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasLeadRoleIn"/>
+        <NamedIndividual IRI="#Huma_Qureshi"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Huma_Qureshi"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasSupportingRoleIn"/>
+        <NamedIndividual IRI="#Jaden_Smith"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Jaden_Smith"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Manoj_Bajpayee"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Nawazuddin_Siddiqui"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasSupportingRoleIn"/>
+        <NamedIndividual IRI="#Pankaj_Tripathi"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Pankaj_Tripathi"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProduced"/>
+        <NamedIndividual IRI="#Rakesh_Bhagwani"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasLeadRoleIn"/>
+        <NamedIndividual IRI="#Richa_Chadha"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Richa_Chadha"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasWritten"/>
+        <NamedIndividual IRI="#Sachin_K._Lapadia"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Satyakam_Anand"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#givenMusicIn"/>
+        <NamedIndividual IRI="#Sneha_Khanwalkar"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasWritten"/>
+        <NamedIndividual IRI="#Steve_Conrad"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProduced"/>
+        <NamedIndividual IRI="#Sunil_Bohra"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasEdited"/>
+        <NamedIndividual IRI="#Sweta_Venkat"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasSupportingRoleIn"/>
+        <NamedIndividual IRI="#Thandiwe_Newton"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Thandiwe_Newton"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#editedBy"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+        <NamedIndividual IRI="#Hughes_Winborne"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#musicBy"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+        <NamedIndividual IRI="#Andrea_Guerra"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasDirector"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+        <NamedIndividual IRI="#Gabriele_Muccino"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProducer"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+        <NamedIndividual IRI="#David_Alper"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProducer"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+        <NamedIndividual IRI="#Todd_Black"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasProduced"/>
+        <NamedIndividual IRI="#Todd_Black"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasLeadRoleIn"/>
+        <NamedIndividual IRI="#Will_Smith"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/actedIn"/>
+        <NamedIndividual IRI="#Will_Smith"/>
+        <NamedIndividual IRI="#The_Pursuit_of_Happyness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/hasWritten"/>
+        <NamedIndividual IRI="#Zeishan_Quadri"/>
+        <NamedIndividual IRI="#Gangs_of_Wasseypur"/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasCinematographer"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasLeadRoleIn"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#musicBy"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/actedIn"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasActed"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasActor"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasDirected"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasDirector"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasEdited"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasGenre"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasHeight"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasLanguage"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasNarrated"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasPlayedVillain"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasProduced"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasProducer"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasProductionDesigned"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasVFXDesigned"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/hasWritten"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/pairedWith"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/playedBy"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/playedCameo"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/playedLoveInterest"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#givenMusicIn"/>
+        <ObjectProperty IRI="#musicBy"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="/actedIn"/>
+        <ObjectProperty IRI="/hasActor"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="/hasDirected"/>
+        <ObjectProperty IRI="/hasDirector"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="/hasProduced"/>
+        <ObjectProperty IRI="/hasProducer"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="/pairedWith"/>
+        <ObjectProperty IRI="/pairedWith"/>
+    </InverseObjectProperties>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#cinematographyBy"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#givenMusicIn"/>
+        <Class IRI="/Singer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasLeadRoleIn"/>
+        <Class IRI="/Actor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasLeadRoleIn"/>
+        <Class IRI="/Actress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasSupportingRoleIn"/>
+        <Class IRI="/Actor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasSupportingRoleIn"/>
+        <Class IRI="/Actress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#musicBy"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/actedIn"/>
+        <Class IRI="/Actor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/actedIn"/>
+        <Class IRI="/Actress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasActed"/>
+        <Class IRI="/Actor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasActed"/>
+        <Class IRI="/Actress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasActor"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasDirected"/>
+        <Class IRI="/Director"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasDirector"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasEdited"/>
+        <Class IRI="#Editor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasGenre"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasLanguage"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasNarrated"/>
+        <Class IRI="/Writer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasPlayedVillain"/>
+        <Class IRI="/Actor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasPlayedVillain"/>
+        <Class IRI="/Actress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasProduced"/>
+        <Class IRI="/Producer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasProducer"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasVFXDesigned"/>
+        <Class IRI="/VFXDesigner"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasWritten"/>
+        <Class IRI="/Writer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/playedBy"/>
+        <Class IRI="/Role"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/playedCameo"/>
+        <Class IRI="/Actor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/playedCameo"/>
+        <Class IRI="/Actress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#cinematographyBy"/>
+        <Class IRI="/Cinematographer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#givenMusicIn"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasLeadRoleIn"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasSupportingRoleIn"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#musicBy"/>
+        <Class IRI="/Singer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/actedIn"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasActed"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasActor"/>
+        <Class IRI="/Actor"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasActor"/>
+        <Class IRI="/Actress"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasDirected"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasDirector"/>
+        <Class IRI="/Director"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasEdited"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasGenre"/>
+        <Class IRI="#Genre"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasLanguage"/>
+        <Class IRI="#Language"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasNarrated"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasPlayedVillain"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasProduced"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasProducer"/>
+        <Class IRI="/Producer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasVFXDesigned"/>
+        <Class IRI="/AnimationMovies"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasWritten"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/playedBy"/>
+        <Class IRI="/Actor"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/playedBy"/>
+        <Class IRI="/Actress"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/playedCameo"/>
+        <Class IRI="/Movie"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi -->
+

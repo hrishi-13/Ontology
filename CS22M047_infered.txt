@@ -1,0 +1,632 @@
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasTitle
+object - Bajrangi Bhaijaan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasYear
+object - 2015
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasDirector
+object - Kabir Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Salman Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Nawazuddin Siddiqui
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Harshaali Malhotra
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasGenre
+object - Drama
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasPlot
+object - Bajrangi Bhaijaan is a story about a little girl from Pakistan lost in India
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasCountry
+object - India
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasLanguage
+object - Hindi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRuntime
+object - 163
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRating
+object - 8.2
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasWriter
+object - Vijay Kumar Mishra
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasWriter
+object - Kabir Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BajrangiBhaijaan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - 65th Filmfare Awards for Best Film
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasTitle
+object - Kabhi Khushi Kabhie Gham
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasYear
+object - 2001
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasDirector
+object - Karan Johar
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Shahrukh Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasGenre
+object - Drama
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasCountry
+object - India
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasLanguage
+object - Hindi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRuntime
+object - 210
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRating
+object - 8.1
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasWriter
+object - NotSpecified
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Filmfare Awards for Best Film
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabhiKhushiKabhieGham
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Filmfare Awards for Best Director
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasTitle
+object - Dangal
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasYear
+object - 2016
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasDirector
+object - Nitesh Tiwari
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Aamir Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Sakshi Tanwar
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasGenre
+object - Drama
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasCountry
+object - India
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasLanguage
+object - Hindi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRuntime
+object - 161
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRating
+object - 8.4
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Best Hindi Film
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Best Hindi Actor
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Dangal
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Best Hindi Director
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasTitle
+object - Baahubali: The Beginning
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasYear
+object - 2015
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasDirector
+object - S. S. Rajamouli
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Prabhas
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Rana Daggubati
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasGenre
+object - Action
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasGenre
+object - Adventure
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasCountry
+object - India
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasLanguage
+object - Hindi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRuntime
+object - 159
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRating
+object - 8.2
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Best Telugu Film
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Best Telugu Actor
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Baahubali:TheBeginning
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Best Telugu Director
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasTitle
+object - Andaz Apna Apna
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasYear
+object - 1994
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasDirector
+object - Rajkumar Santoshi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Aamir Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Salman Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Raveena Tandon
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Karisma Kapoor
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasGenre
+object - Comedy
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasCountry
+object - India
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasLanguage
+object - Hindi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRuntime
+object - 162
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRating
+object - 8.4
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Filmfare Best Film Award
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - National Award for Best Popular Film
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasTitle
+object - Uri: The Surgical Strike
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasYear
+object - 2019
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasDirector
+object - Aditya Dhar
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Vicky Kaushal
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Yami Gautam
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasGenre
+object - Action
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasCountry
+object - India
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasLanguage
+object - Hindi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRuntime
+object - 121
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRating
+object - 8.5
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Best Hindi Film
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Best Hindi Actor
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AndazApnaApna
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - National Award for Best Popular Film
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasTitle
+object - Dilwale Dulhania Le Jayenge
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasYear
+object - 1995
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasDirector
+object - Aditya Chopra
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Shah Rukh Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Kajol
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Amrish Puri
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasActor
+object - Farida Jalal
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasGenre
+object - Romantic
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasCountry
+object - India
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasLanguage
+object - Hindi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRuntime
+object - 190
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasRating
+object - 7.9
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Filmfare Award for Best Film
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Uri:TheSurgicalStrike
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasAward
+object - Filmfare Award for Best Actor-Male
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#SalmanKhan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Salman Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#SalmanKhan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 1965-12-27
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#ShahRukhKhan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Shah Rukh Khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#ShahRukhKhan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - November 2,1965
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabirKhan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Kabir khan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KabirKhan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 1982-07-30
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KaranJohar
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Karan Johar
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KaranJohar
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - May 25,1972
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AdityaChopra
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Aditya Chopra
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AdityaChopra
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 21 May 1971
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#RajkumarSantoshi
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Rajkumar Santoshi
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#S.S.Rajamouli
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - S. S. Rajamouli
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#S.S.Rajamouli
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 1973
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#NiteshTiwari
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Nitesh Tiwari
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#NiteshTiwari
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 1979
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#SakshiTanwar
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Sakshi Tanwar
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#SakshiTanwar
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 1973
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AnushkaShetty
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Anushka Shetty
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AnushkaShetty
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 1981
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KarismaKapoor
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Karisma Kapoor
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KarismaKapoor
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 25 June 1974
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Kajol
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Kajol
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Kajol
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 5 August 1974
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#RaveenaTandon
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Raveena Tandon
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#RaveenaTandon
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 26 October 1974
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AmitabhBachchan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Amitabh Bachchan
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AmitabhBachchan
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - October 11,1942
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AdityaDhar
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasName
+object - Aditya Dhar
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AdityaDhar
+predicate - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#hasBirthDate
+object - 1987
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Actor
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Actress
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Cinematographer
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#DirectorStaff
+predicate - http://www.w3.org/2000/01/rdf-schema#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Editor
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Genre
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Distributer
+predicate - http://www.w3.org/2000/01/rdf-schema#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Person
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Producer
+predicate - http://www.w3.org/2000/01/rdf-schema#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Role
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Singer
+predicate - http://www.w3.org/2000/01/rdf-schema#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Writer
+predicate - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#VFXDesigner
+predicate - http://www.w3.org/2000/01/rdf-schema#type
+object - http://www.w3.org/2002/07/owl#Class
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#ActionMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AnimationMovies
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#BollywoodMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#ChildrenMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#CreativeMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#DocumentaryMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#HollywoodMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#HorrorMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#KoreanMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#RomanticMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Sci-FiMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#TamilMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#TeluguMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#ThrillerMovie
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Movie
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#LeadRole
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Role
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#SupportingRole
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Role
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AssistantDirector
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#DirectionStaff
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#AssistantDirector
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#DirectionStaff
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#Director
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#DirectionStaff
+------------------------------------------------------------------------------------
+Subject - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#MusicDirector
+predicate - http://www.w3.org/2000/01/rdf-schema#subClassOf
+object - http://www.semanticweb.org/hrishi/ontologies/2023/4/untitled-ontology-10#DirectionStaff
+------------------------------------------------------------------------------------

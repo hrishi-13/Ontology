@@ -1,0 +1,51 @@
+<!ELEMENT moviesCatalog (movies, persons, cast, genres, countries, languages) >
+<!ELEMENT movies (movie+)>
+<!ELEMENT movie (title, year, director+, actor+, genre+, plot?,  country?, language?, runtime?, rating?, writers+, awards*)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ATTLIST director id IDREF #REQUIRED >
+<!ELEMENT actor (#PCDATA)>
+<!ATTLIST actor id IDREF #REQUIRED >
+<!ELEMENT genre (#PCDATA)>
+<!ATTLIST genre id IDREF #REQUIRED >
+<!ELEMENT country (#PCDATA)>
+<!ATTLIST country id IDREF #REQUIRED >
+<!ELEMENT plot (#PCDATA) >
+<!ELEMENT language (#PCDATA)>
+<!ATTLIST language id IDREF #REQUIRED >
+<!ELEMENT runtime (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT writers (writer+)>
+<!ELEMENT writer (#PCDATA) >
+<!ATTLIST writer id IDREF #REQUIRED>
+<!ELEMENT awards (award+)>
+<!ELEMENT award (#PCDATA) >
+<!ATTLIST movie id ID #REQUIRED>
+
+<!ELEMENT persons (person+)>
+<!ELEMENT person (name, birth_date)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT birth_date (#PCDATA)>
+<!ATTLIST person id ID #REQUIRED>
+
+<!ELEMENT cast (casting+)>
+<!ELEMENT casting (person_id, movie_id, character?)>
+<!ELEMENT person_id (#PCDATA)>
+<!ELEMENT movie_id (#PCDATA)>
+<!ELEMENT character (#PCDATA)>
+<!ATTLIST casting id ID #REQUIRED>
+<!ATTLIST casting billing CDATA #IMPLIED>
+<!ATTLIST casting screen_time CDATA #IMPLIED>
+
+<!ELEMENT genres (genre_name+)>
+<!ELEMENT genre_name (#PCDATA)>
+<!ATTLIST genre_name id ID #REQUIRED>
+
+<!ELEMENT countries (country_name+)>
+<!ELEMENT country_name (#PCDATA)>
+<!ATTLIST country_name id ID #REQUIRED>
+
+<!ELEMENT languages (language_name+)>
+<!ELEMENT language_name (#PCDATA)>
+<!ATTLIST language_name id ID #REQUIRED>

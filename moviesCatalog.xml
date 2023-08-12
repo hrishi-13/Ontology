@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE moviesCatalog SYSTEM "moviesCatalog.dtd">
+
+
+<moviesCatalog>
+    <movies>
+        <movie id="m1">
+            <title>Bajrangi Bhaijaan</title>
+            <year>2015</year>
+            <director id="d1">Kabir Khan</director>
+            <actor id="a1">Salman Khan</actor>
+            <actor id="a2"> Nawazuddin Siddiqui</actor>
+            <actor id="a3">Harshaali Malhotra</actor>
+            <genre id="g1">Drama</genre>
+            <plot>Bajrangi Bhaijaan is a story about a little girl from Pakistan lost in India</plot>
+            <country id="ctn1">India</country>
+            <language id="l1">Hindi</language>
+            <runtime>163</runtime>
+            <rating>8.2</rating>
+            <writers>
+                <writer id="w1">Vijay Kumar Mishra</writer>
+                <writer id="w2">Kabir Khan</writer>
+            </writers>
+            <awards>
+                <award>65th Filmfare Awards for Best Film</award>
+            </awards>
+        </movie>
+        <movie id="m2">
+            <title>Kabhi Khushi Kabhie Gham...</title>
+            <year>2001</year>
+            <director id="d2" />
+            <actor id="a3" />
+            <actor id="a5" />
+            <genre id="g2"/>
+            <genre id="g1"/>
+            <plot>Yashvardhan Raichand lives a very wealthy lifestyle along with his wife, Nandini, and two sons, Rahul and Rohan. While Rahul has been adopted, Yashvardhan and Nandini treat him as their own. When their sons mature, they start to look for suitable brides for Rahul, and decide to get him married to a young woman named Naina.</plot>
+            <country id="ctn1"/>
+            <language id="l1" />
+            <runtime>210</runtime>
+            <rating>8.1</rating>
+            <writers>
+                <writer id="w3"/>
+                <writer id="w4"/>
+            </writers>
+            <awards>
+                <award>Filmfare Award for Best Film</award>
+                <award>Filmfare Award for Best Director</award>
+            </awards>
+        </movie>
+        <movie id="m3"> 
+            <title>Dilwale Dulhania Le Jayenge</title> 
+            <year>1995</year> 
+            <director id="d3">Aditya Chopra</director> 
+            <actor id="a5">Shah Rukh Khan</actor> 
+            <actor id="a6">Kajol</actor> 
+            <actor id="a7">Amrish Puri</actor> 
+            <actor id="a8">Farida Jalal</actor> 
+            <genre id="g3">Romantic</genre> 
+            <country id="ctn1">India</country> 
+            <language id="l1">Hindi</language> 
+            <runtime>190</runtime> 
+            <rating>7.9</rating> 
+            <writers> 
+                <writer id="w5">Aditya Chopra</writer>
+                <writer id="w6">Javed Siddiqui</writer>
+            </writers>
+            <awards>
+                <award>Filmfare Award for Best Film</award> 
+                <award>Filmfare Award for Best Actor- Male</award>
+            </awards>
+             
+        </movie> 
+        <movie id="m4"> 
+            <title>Andaz Apna Apna</title> 
+            <year>1994</year> 
+            <director id="d4">Rajkumar Santoshi</director> 
+            <actor id="a9">Aamir Khan</actor> 
+            <actor id="a1">Salman Khan</actor> 
+            <actor id="a10">Raveena Tandon</actor> 
+            <actor id="a11">Karisma Kapoor</actor> 
+            <genre id="g1">Romantic </genre> 
+            <genre id="g2">Comedy</genre>
+            <country id="ctn1">India</country> 
+            <language id="l1">Hindi</language> 
+            <runtime>162</runtime> 
+            <rating>8.4</rating> 
+            <writers>
+                <writer id="w6">Avaantika Shikar Verma</writer>
+                <writer id="d4">Rajkumar Santoshi</writer>
+            </writers>
+            <awards>
+                <award>Filmfare Best Film Award</award> 
+                <award>National Award for Best Popular Film</award>
+            </awards>
+             
+        </movie>
+        
+        
+        <movie id="m5"> 
+            <title>Baahubali: The Beginning</title>
+            <year>2015</year>
+            <director id="d5"> S. S. Rajamouli </director>
+            <actor id="a12"> Prabhas </actor>
+            <actor id="a13"> Rana Daggubati </actor>
+            <actor id="a14"> Anushka Shetty </actor>
+            <genre id="g4"> Action </genre>
+            <genre id="g5"> Adventure </genre>
+            <country id="ctn1"> India </country>
+            <language id="l1"> Hindi </language>
+            <runtime>159</runtime>
+            <rating>8.2</rating>
+            <writers>
+                <writer id="d5">
+                    S. S. Rajamouli
+                </writer>
+            </writers>
+            <awards>
+                <award>Best Telugu Film</award>
+                <award>Best Telugu Actor</award>
+                <award>Best Telugu Director</award>
+            </awards>
+        </movie>
+        <movie id="m6">
+            <title>Dangal</title>
+            <year>2016</year>
+            <director id="d6">Nitesh Tiwari</director> 
+            <actor id="a9"> Aamir Khan </actor>
+            <actor id="a15"> Sakshi Tanwar </actor>
+            <genre id="g1"> Drama </genre>
+            <country id="ctn1"> India </country>
+            <language id="l1"> Hindi </language>
+            <runtime>161</runtime>
+            <rating>8.4</rating>
+            <writers>
+                <writer id="d6">Nitesh Tiwari</writer>
+            </writers>
+            <awards>
+                <award>Best Hind Film</award>
+                <award>Best Hind Actor</award>
+                <award>Best Hind Director</award>
+            </awards>
+            
+        </movie>
+        <movie id="m7">
+            <title>Uri: The Surgical Strike</title>
+            <year>2019</year>
+            <director id="d7"> Aditya Dhar </director>
+            <actor id="a16"> Vicky Kaushal </actor>
+            <actor id="a17"> Yami Gautam </actor>
+            <genre id="g4"> Action </genre>
+            <country id="ctn1"> India </country>
+            <language id="l1"> Hindi </language>
+            <runtime>121</runtime>
+            <rating>8.5</rating>
+            <writers>
+                <writer id="d7"> Aditya Dhar</writer>
+            </writers>
+            <awards>
+                <award>Best Hindi Film</award>
+                <award>Best Hindi Actor</award>
+            </awards>
+        </movie>
+    </movies>
+    <persons>
+        <person id="d1">
+            <name>Kabir Khan</name>
+            <birth_date>1982-07-30</birth_date>
+        </person>
+        <person id="d2">
+            <name>Karan Johar</name>
+            <birth_date>May 25,1972</birth_date>
+        </person>
+        <person id="d3"> 
+            <name>Aditya Chopra</name> 
+            <birth_date>21 May 1971</birth_date> 
+        </person>
+        <person id="d4">
+            <name>Rajkumar Santoshi</name>
+            <birth_date></birth_date>
+        </person>
+        <person id="d5">
+            <name> S. S. Rajamouli </name>
+            <birth_date> 1973 </birth_date>
+        </person>
+        <person id="d6">
+            <name> Nitesh Tiwari </name>
+            <birth_date> 1979 </birth_date>
+        </person>
+        <person id="d7">
+            <name> Aditya Dhar </name>
+            <birth_date> 1987 </birth_date>
+        </person>
+        
+        
+        
+        
+        <person id="a1">
+            <name>Salman Khan</name>
+            <birth_date>1965-12-27</birth_date>
+        </person>
+        <person id="a2">
+            <name>Nawazuddin Siddiqui</name>
+            <birth_date>1974-05-19</birth_date>
+        </person>
+        
+        <person id="a3">
+            <name>Harshaali Malhotra</name>
+            <birth_date>2008-06-01</birth_date>
+        </person>
+        
+        <person id="a4">
+            <name>Amitabh Bachchan</name>
+            <birth_date>October 11,1942</birth_date>
+        </person>
+        
+        <person id="a5">
+            <name>Shah Rukh Khan</name>
+            <birth_date>November 2,1965</birth_date>
+        </person>
+        <person id = "a6"> 
+            <name>Kajol</name> 
+            <birth_date>5 August 1974</birth_date> 
+        </person>
+        <person id = "a7"> 
+            <name>Amrish Puri</name> 
+            <birth_date>22 June 1932</birth_date> 
+        </person>
+        <person id="a8"> 
+            <name>Farida Jalal</name> 
+            <birth_date>14 March 1949</birth_date> 
+        </person> 
+        <person id = "a9"> 
+            <name>Aamir Khan</name> 
+            <birth_date>14 March 1965</birth_date> 
+        </person>
+        <person id="a10"> 
+            <name>Raveena Tandon</name> 
+            <birth_date>26 October 1974</birth_date> 
+        </person> 
+        <person id="a11"> 
+            <name>Karisma Kapoor</name> 
+            <birth_date>25 June 1974</birth_date> 
+        </person>
+        <person id="a12">
+            <name> Prabhas </name>
+            <birth_date> 1979 </birth_date>
+        </person>
+        <person id="a13">
+            <name> Rana Daggubati </name>
+            <birth_date> 1984 </birth_date>
+        </person>
+        <person id="a14">
+            <name>Anushka Shetty</name>
+            <birth_date> 1981 </birth_date>
+        </person>
+        <person id="a15">
+            <name> Sakshi Tanwar </name>
+            <birth_date> 1973 </birth_date>
+        </person>
+        <person id="a16">
+            <name> Vicky Kaushal </name>
+            <birth_date> 1988 </birth_date>
+        </person>
+        <person id="a17">
+            <name> Yami Gautam </name>
+            <birth_date> 1988 </birth_date>
+        </person>
+        
+        
+        <person id="w1">
+            <name>Vijay Kumar Mishra</name>
+            <birth_date>1969-12-25</birth_date>
+        </person>
+        <person id="w2">
+            <name>Kabir Khan</name>
+            <birth_date>1982-07-30</birth_date>
+        </person>
+        
+        
+        <person id="w3">
+            <name>Karan Johar</name>
+            <birth_date>May 25,1972</birth_date>
+        </person>
+        
+        <person id="w4">
+            <name>Hussain Dalal</name>
+            <birth_date>December 6,1984</birth_date>
+        </person>
+        
+        <person id="w5">
+            <name>Aditya Chopra</name>
+            <birth_date></birth_date>
+        </person>
+        <person id="w6">
+            <name>Javed Siddiqui</name>
+            <birth_date></birth_date>
+        </person>
+    </persons>
+    
+    <cast>
+        <casting id="c1" billing="Top billed" screen_time="First Half">
+            <person_id>a1</person_id>
+            <movie_id>m1</movie_id>
+            <character>Bajrangi (Pawan Kumar Chaturvedi)</character>
+        </casting>
+        <casting id="c2" billing="Top billed" screen_time="Second Half">
+            <person_id>a2</person_id>
+            <movie_id>m1</movie_id>
+            <character>Chand Nawab</character>
+        </casting>
+        <casting id="c3" billing="Key Role">
+            <person_id>a3</person_id>
+            <movie_id>m1</movie_id>
+            <character>Munni (Shahida)</character>
+        </casting>
+        <casting id="c4" billing="Top" screen_time="45">
+            <person_id>d2</person_id>
+            <movie_id>m2</movie_id>
+            <character>Narrator</character>
+        </casting>
+        <casting id="c5" billing="Top" screen_time="45">
+            <person_id>a4</person_id>
+            <movie_id>m2</movie_id>
+            <character>Yashvardhan Raichand</character>
+        </casting>
+        <casting id="c6" billing="Top" screen_time="35">
+            <person_id>a5</person_id>
+            <movie_id>m2</movie_id>
+            <character>Rahul Raichand</character>
+        </casting>
+        <casting id="c7" billing="Director" screen_time="200"> 
+            <person_id>d3</person_id> 
+            <movie_id>m3</movie_id>
+        </casting>
+        <casting id="c8" billing="Actor Male" screen_time="180"> 
+            <person_id>a5</person_id> 
+            <movie_id>m3</movie_id> 
+        </casting> 
+        <casting id="c9" billing = "Lead Actor Male" screen_time="180"> 
+            <person_id>a6</person_id> 
+            <movie_id>m3</movie_id> 
+        </casting>
+        <casting id="c10" billing="Supporting Actor" screen_time="90"> 
+            <person_id>a7</person_id> 
+            <movie_id>m3</movie_id> 
+        </casting> 
+        <casting  id="c11" billing="Supporting Actress" screen_time="60"> 
+            <person_id>a8</person_id> 
+            <movie_id>m3</movie_id> 
+        </casting> 
+        <casting id="c12" billing="Lead Actor Male" screen_time="200"> 
+            <person_id>a1</person_id> 
+            <movie_id>m4</movie_id> 
+            
+        </casting> 
+        <casting id="c13" billing="Lead Actor Male" screen_time="200"> 
+            <person_id>a5</person_id> 
+            <movie_id>m4</movie_id> 
+        </casting> 
+        <casting id="c14" billing="Lead Actor Male" screen_time="200"> 
+            <person_id>a9</person_id> 
+            <movie_id>m4</movie_id> 
+        </casting>
+        <casting id="c15" billing="Lead Actor Female" screen_time="200"> 
+            <person_id>a10</person_id> 
+            <movie_id>m4</movie_id> 
+        </casting>
+        <casting id="c16" billing="Lead Actor Female" screen_time="200"> 
+            <person_id>a11</person_id> 
+            <movie_id>m4</movie_id> 
+        </casting>
+        
+        <casting id="c17" billing="2" screen_time="4">
+            <person_id> d4 </person_id>
+            <movie_id> m5 </movie_id>
+            <character> Director </character>
+        </casting>
+        <casting id="c18" billing="2" screen_time="2">
+            <person_id> a12 </person_id>
+            <movie_id> m5 </movie_id>
+            <character> Protagonist </character> 
+        </casting>
+        <casting id="c19" billing="3" screen_time="2">
+            <person_id> a13 </person_id>
+            <movie_id> m5 </movie_id>
+            <character> Antagonist </character>
+        </casting>
+        <casting id="c20" billing="4" screen_time="2">
+            <person_id> a14 </person_id>
+            <movie_id> m5 </movie_id>
+            <character> Female Lead </character>
+        </casting>
+        
+        <casting id="c21" billing="2" screen_time="2">
+            <person_id> a9 </person_id>
+            <movie_id> m6 </movie_id>
+            <character> Protagonist </character>
+        </casting>
+        <casting id="c22" billing="3" screen_time="2">
+            <person_id> a15 </person_id>
+            <movie_id> m6 </movie_id>
+            <character> Female Lead </character>
+        </casting>
+        
+        <casting id="c23" billing="2" screen_time="2">
+            <person_id> a16 </person_id>
+            <movie_id> m7 </movie_id>
+            <character> Protagonist </character>
+        </casting>
+        <casting id="c24" billing="3" screen_time="2">
+            <person_id> a17 </person_id>
+            <movie_id> m7 </movie_id>
+            <character> Female Lead </character>  
+        </casting>
+        
+    </cast>
+    <genres>
+        <genre_name id="g1">Drama</genre_name>
+        <genre_name id="g2">Comedy</genre_name>
+        <genre_name id="g3">Romantic</genre_name>
+        <genre_name id="g4">Action</genre_name>
+        <genre_name id="g5">Adventure</genre_name>
+    </genres>
+    <countries>
+        <country_name id="ctn1">India</country_name>
+    </countries>
+    <languages>
+        <language_name id="l1">Hindi</language_name>
+    </languages>
+</moviesCatalog>
